@@ -1,4 +1,4 @@
-alert('Qual o valor em dólar você quer converter?');
+var valorEmDolarTexto = prompt("Qual o valor em dólar você quer converter?")
 
 var valorEmDolarNumero = parseFloat(valorEmDolarTexto);
 
